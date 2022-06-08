@@ -1,10 +1,10 @@
 {
-  "name": "Uploader X Bot",
+  "name": "OUR HELPER X Bot",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
-  "keywords": [ "URL UPLOADER"],
+  "keywords": [ "OUR TEAM BOT"],
   "success_url": "https://t.me/uploadsghbot",
-  "website": "https://t.me/uploadsghbot",
-  "repository": "https://t.me/uploadsghbot",
+  "website": "https://t.me/MasoomXmeer",
+  "repository": "https://t.me/MasoomXmeer",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
